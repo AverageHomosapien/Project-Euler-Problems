@@ -1,6 +1,4 @@
 # Find the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product?
-# Date Last Modified: 07/07/2019
-# Author: Calum Hamilton
 
 import numpy as np
 

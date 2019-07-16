@@ -1,7 +1,4 @@
 # What is the largest prime factor of the number 600851475143 ?
-# Date Last Modified: 07/07/2019
-# Author: Calum Hamilton
-
 
 def main():
     prime = False

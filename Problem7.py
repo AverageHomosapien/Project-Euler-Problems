@@ -1,7 +1,4 @@
 # What is the 10 001st prime number?
-# Date Last Modified: 07/07/2019
-# Author: Calum Hamilton
-
 
 def main():
     counter = 4

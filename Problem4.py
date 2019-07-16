@@ -1,7 +1,4 @@
 # Find the largest palindrome made from the product of two 3-digit numbers.
-# Date Last Modified: 07/07/2019
-# Author: Calum Hamilton
-
 
 def main():
     num1 = 999
