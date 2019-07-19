@@ -17,15 +17,13 @@ def main():
     for x in range (0,len(input_string2)):
         num_input[x+500] = int(x=input_string2[x])
 
-    
-    for x in range(0,len(num_input - 13)):
+
+    for x in range(0,len(num_input - 13)-13):
         temp = 1
-        print(x+13)
         for y in range(x+0,x+13):
             temp *= num_input[y]
         if temp > highest:
             highest = temp
-            print("New Highest is %d." %(highest))
 
     print("The highest product is %d!" %(highest))
 
